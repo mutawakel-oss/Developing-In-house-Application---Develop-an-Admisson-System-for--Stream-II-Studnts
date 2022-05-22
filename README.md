@@ -1,7 +1,5 @@
 # Developing-In-house-Application---Develop-an-Admisson-System-for--Stream-II-Studnts
 
-# Developing-In-house-Application---Develop-an-Admisson-System-for-Master-Studnts
-
 # Project Purpose
 The online admission system is web application developed in KSAU-HS for automating the process of student admission for the different KSAU-HS campuses.
 
